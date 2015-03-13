@@ -1,0 +1,1 @@
+DuTrack is a modified version of the <a href='http://opengts.sourceforge.net/'>OpenGTS</a> system, specifically geared for faster vehicle updates.  Our system is being built for locating buses on the Duke campus.  A set of administrative tools and an interface for riders is also being developed.
